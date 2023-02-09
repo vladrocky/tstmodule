@@ -1,4 +1,4 @@
-package hxlt
+package tstmodule
 
 import "fmt"
 
